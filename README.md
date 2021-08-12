@@ -1,3 +1,9 @@
+This is a forked version of tn40xx-driver which also supports StarTech 5G PCIe Network Adapter Card.
+
+Marvell PHY firmware was taken from StarTech's official driver:
+https://www.startech.com/en-us/networking-io/st5gpexnb#support--section-downloads
+
+----
 
 This repo contains the tn40xx Linux driver for 10Gbit NICs based on the TN4010 MAC from [Tehuti Networks](http://www.tehutinetworks.net).
 
